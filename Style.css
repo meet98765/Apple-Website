@@ -1,0 +1,14 @@
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+  #img{
+    float: left;
+  }
+  body{
+    background:linear-gradient(to  right,rgb(57, 0, 0),rgb(207, 5, 5),rgb(46, 0, 46),rgb(1, 1, 55),rgb(152, 235, 152),rgb(255, 141, 160),rgb(0, 129, 86),rgb(0, 177, 248),rgb(255, 255, 0));
+  }
+  #img1{
+    float: left;
+    margin-bottom: 80px;
+  }
